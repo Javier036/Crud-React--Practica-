@@ -1,0 +1,63 @@
+
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Javier Hau",
+      "nombreUsuario": "Javier_Hau123",
+      "email": "javiercouoh036@gmail.com",
+      "direccion": {
+        "calle": "calle 54 x 35 y 37",
+        "colonia": "San Ignacio",
+        "municipio": "Tekax"
+      },
+      "telefono": "9971338867",
+      "oficio": "Programador"
+    },
+    {
+      "id": "2",
+      "nombre": "Javier Hau",
+      "nombreUsuario": "Javier_Hau123",
+      "email": "javiercouoh036@gmail.com",
+      "direccion": {
+        "calle": "calle 54 x 35 y 37",
+        "colonia": "San Ignacio",
+        "municipio": "Tekax"
+      },
+      "telefono": "9971338867",
+      "oficio": "Programador"
+    },
+    {
+      "id": "3",
+      "nombre": "Javier Hau",
+      "nombreUsuario": "Javier_Hau123",
+      "email": "javiercouoh036@gmail.com",
+      "direccion": {
+        "calle": "calle 54 x 35 y 37",
+        "colonia": "San Ignacio",
+        "municipio": "Tekax"
+      },
+      "telefono": "9971338867",
+      "oficio": "Programador"
+    },
+    {
+      "id": "4",
+      "nombre": "Javier Hau",
+      "nombreUsuario": "Javier_Hau123",
+      "email": "javiercouoh036@gmail.com",
+      "direccion": {
+        "calle": "calle 54 x 35 y 37",
+        "colonia": "San Ignacio",
+        "municipio": "Tekax"
+      },
+      "telefono": "9971338867",
+      "oficio": "Programador"
+    },
+    {
+      "id": "062b",
+      "nombre": "Rodrigo",
+      "email": "rodrigo@gmail.com",
+      "telefono": "997122322333"
+    }
+  ]
+}
